@@ -8,4 +8,3 @@ The following packages/versions have been used here:
 - Uses [chi router](https://github.com/go-chi/chi)
 - Uses [alexedwards SCS](https://github.com/alexedwards/scs) session management
 - Uses [nosurf](https://github.com/justinas/nosurf)
-- 
